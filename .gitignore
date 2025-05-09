@@ -1,0 +1,7 @@
+.Trash-*/
+.Trashes
+.Spotlight-V*
+/opencore-*.txt
+.fseventsd
+com.apple.recovery.boot
+._*
