@@ -1,0 +1,9 @@
+[submodule "utils/macrecovery"]
+	path = utils/macrecovery
+	url = https://github.com/realtapan/macrecovery.git
+[submodule "utils/GenSMBIOS"]
+	path = utils/GenSMBIOS
+	url = https://github.com/corpnewt/GenSMBIOS.git
+[submodule "utils/ProperTree"]
+	path = utils/ProperTree
+	url = https://github.com/corpnewt/ProperTree.git
