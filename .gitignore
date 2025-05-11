@@ -5,3 +5,4 @@
 .fseventsd
 com.apple.recovery.boot
 ._*
+/EFI/APPLE
